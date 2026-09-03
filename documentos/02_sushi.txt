@@ -1,0 +1,11 @@
+Fuente: gastronomia_japonesa | Tema: sushi
+
+El sushi es la joya de la gastronomía japonesa. Consiste en arroz
+avinagrado (shari) combinado con diversos ingredientes como pescado crudo, mariscos,
+verduras o tortilla japonesa (tamagoyaki). Los tipos más comunes son:
+- Nigiri: bola de arroz con pescado encima, moldeada a mano.
+- Maki: rollo de arroz y relleno envuelto en alga nori.
+- Sashimi: solo pescado crudo, sin arroz.
+- Temaki: cono de alga nori relleno de arroz e ingredientes.
+El wasabi y el jengibre encurtido (gari) se sirven como acompañamientos.
+La salsa de soja se usa para mojar ligeramente, nunca para empapar el arroz.
